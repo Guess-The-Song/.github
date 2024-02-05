@@ -1,10 +1,10 @@
 # Guess The Song
-This Organization holds all source, documentation and everything else connected to [Guess The Song](https://gts.thaemisch.com)
+This Organization holds all source, documentation and everything else connected to the [Guess The Song Website](https://gts.thaemisch.com).
 
 ## Selfhost
 ### Docker (WIP) (Recommended)
 The Docker image is still a work in progress and does not work at the moment.
-All information on how to host your own instance using Docker is in the repo [Guess-The-Song/docker](https://github.com/Guess-The-Song/docker)
+All information on how to host your own instance using Docker is in the [Docker](https://github.com/Guess-The-Song/docker) repo.
 
 ### Build Manually
 This is not recommended, but if you want to run the individual services on bare-metal, check out the READMEs in the [Client](https://github.com/Guess-The-Song/client) and [Server](https://github.com/Guess-The-Song/server) repos.
